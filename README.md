@@ -4,7 +4,7 @@ VKB Gaudi
 # Planung
 1. Tensorflow Grundlage
 2. Model Speichern, weiderverwenden
-3. Regression, Softmax
+3. Neuronal Network, Regression, Softmax
 4. Classification 
 5. Optimizer
 6. Tensorboard
