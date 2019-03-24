@@ -3,12 +3,12 @@ VKB Gaudi
 
 # Planung
 1. Tensorflow Grundlage
-2. Regression
-3. Classification 
-4. Optimizer
-5. Tensorboard
-6. CNN
-7. Model Speichern, weiderverwenden, weiter trainieren
+2. Model Speichern, weiderverwenden
+3. Neural Network, Regression, Softmax
+4. Classification 
+5. Optimizer
+6. Tensorboard
+7. CNN
 8. Mini-Projekt -> Hacken Image Captcha
 
 # Themen, die interessant sein könnten:
