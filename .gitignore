@@ -1,1 +1,4 @@
 .ipynb*
+.idea
+*ubyte
+*.gz

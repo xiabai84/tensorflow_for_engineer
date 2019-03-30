@@ -5,7 +5,7 @@ VKB Gaudi
 1. Tensorflow Grundlage
 2. Model Speichern, weiderverwenden
 3. Neural Network, Regression, Softmax
-4. Classification 
+4. Image Classification (mnist handwriting)
 5. Optimizer
 6. Tensorboard
 7. CNN
