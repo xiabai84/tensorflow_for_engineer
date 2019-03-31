@@ -3,18 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="c8fd7b6d-9d78-430a-8f38-9a801ff954ca" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/tensorflow_for_enginner.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/tensorflow_for_enginner.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1_introduction_tensorflow/0_introduction.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/1_introduction_tensorflow/0_introduction.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2_store_ml_model/1_model_save_warm_up.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2_store_ml_model/1_model_save_warm_up.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2_store_ml_model/2_description_model_save.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2_store_ml_model/2_description_model_save.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/2_store_ml_model/3_store_model_as_pb.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2_store_ml_model/3_store_model_as_pb.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2_store_ml_model/4_model_restore_from_pb.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2_store_ml_model/4_model_restore_from_pb.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2_store_ml_model/model_pb_format/model.pb" beforeDir="false" afterPath="$PROJECT_DIR$/2_store_ml_model/model_pb_format/model.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3_neural_network/1_intro_neural_network.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/3_neural_network/1_intro_neural_network.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/3_neural_network/2_build_nn_layer.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/3_neural_network/2_build_nn_layer.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/4_basic_image_recognition/2_image_in_array.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/4_basic_image_recognition/2_image_in_array.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -38,9 +30,9 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="2863" />
-    <option name="y" value="97" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="2862" />
+    <option name="y" value="66" />
     <option name="width" value="1068" />
     <option name="height" value="894" />
   </component>
@@ -56,11 +48,6 @@
             <path>
               <item name="tensorflow_for_enginner" type="b2602c69:ProjectViewProjectNode" />
               <item name="tensorflow_for_enginner" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tensorflow_for_enginner" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tensorflow_for_enginner" type="462c0819:PsiDirectoryNode" />
-              <item name="4_basic_image_recognition" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -124,12 +111,12 @@
       <workItem from="1553871831617" duration="542000" />
       <workItem from="1553872719228" duration="21000" />
       <workItem from="1553872809370" duration="5000" />
-      <workItem from="1553964782182" duration="4815000" />
+      <workItem from="1553964782182" duration="6520000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7339000" />
+    <option name="totallyTimeSpent" value="9044000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -141,7 +128,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="2863" y="97" width="1068" height="894" extended-state="0" />
+    <frame x="2862" y="66" width="1068" height="894" extended-state="0" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22015655" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -193,8 +180,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" />
+        <state relative-caret-position="60">
+          <caret line="4" column="5" lean-forward="true" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
         </state>
       </provider>
     </entry>

@@ -2,3 +2,4 @@
 .idea
 *ubyte
 *.gz
+*.pkl
