@@ -12,6 +12,7 @@ VKB Gaudi
 8. Mini-Projekt -> Hacken Image Captcha
 
 # Themen, die interessant sein könnten:
+* RNN
 * NLP (word2vec, LSTM)
 * Model Intragration mit Python Backend Service
 * Weitere Projekte für Bilderkennung
