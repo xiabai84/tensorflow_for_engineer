@@ -2,13 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c8fd7b6d-9d78-430a-8f38-9a801ff954ca" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/tensorflow_for_enginner.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/tensorflow_for_enginner.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_convolutional_neural_network/1_cnn_theory.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_convolutional_neural_network/2_cnn_implementation_high_level.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_convolutional_neural_network/image/1_architecture_cnn.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_convolutional_neural_network/image/2_filter_cnn.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_convolutional_neural_network/image/3_conv_filter.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_convolutional_neural_network/image/4_max_pooling.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_convolutional_neural_network/image/5_fully_connected_layer.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2_store_ml_model/1_model_save_warm_up.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2_store_ml_model/1_model_save_warm_up.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2_store_ml_model/3_store_model_as_pb.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2_store_ml_model/3_store_model_as_pb.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2_store_ml_model/model_all/model.ckpt.meta" beforeDir="false" afterPath="$PROJECT_DIR$/2_store_ml_model/model_all/model.ckpt.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4_basic_image_recognition/3_training_script.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/4_basic_image_recognition/3_training_script.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3_neural_network/2_build_nn_layer.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/3_neural_network/2_build_nn_layer.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_convolutional_neural_network/2_simple_cnn_implmentation.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/5_convolutional_neural_network/3_cnn_implmentation_low_level.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,7 +23,7 @@
     <SUITE FILE_PATH="coverage/tensorflow_for_enginner$jupyter.coverage" NAME="jupyter Coverage Results" MODIFIED="1553010150090" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -43,6 +46,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -54,7 +58,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -117,11 +120,13 @@
       <workItem from="1554323466907" duration="826000" />
       <workItem from="1554375002151" duration="1313000" />
       <workItem from="1554465479593" duration="2112000" />
+      <workItem from="1554558575127" duration="272000" />
+      <workItem from="1554633783304" duration="2784000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13295000" />
+    <option name="totallyTimeSpent" value="16351000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -135,7 +140,7 @@
   <component name="ToolWindowManager">
     <frame x="0" y="17" width="1368" height="894" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22617246" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23373677" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -151,7 +156,7 @@
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.32893" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.32893" />
-      <window_info anchor="bottom" id="Jupyter" order="13" visible="true" weight="0.25891677" />
+      <window_info anchor="bottom" id="Jupyter" order="13" visible="true" weight="0.25759578" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
