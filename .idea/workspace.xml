@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c8fd7b6d-9d78-430a-8f38-9a801ff954ca" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/5_convolutional_neural_network/1_cnn_theory.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5_convolutional_neural_network/2_cnn_implementation_high_level.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5_convolutional_neural_network/image/1_architecture_cnn.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5_convolutional_neural_network/image/2_filter_cnn.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5_convolutional_neural_network/image/3_conv_filter.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5_convolutional_neural_network/image/4_max_pooling.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5_convolutional_neural_network/image/5_fully_connected_layer.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3_neural_network/2_build_nn_layer.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/3_neural_network/2_build_nn_layer.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5_convolutional_neural_network/2_simple_cnn_implmentation.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/5_convolutional_neural_network/3_cnn_implmentation_low_level.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_convolutional_neural_network/1_cnn_theory.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/5_convolutional_neural_network/1_cnn_theory.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -35,7 +26,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="171" />
     <option name="y" value="137" />
     <option name="width" value="1026" />
@@ -53,6 +44,11 @@
             <path>
               <item name="tensorflow_for_enginner" type="b2602c69:ProjectViewProjectNode" />
               <item name="tensorflow_for_enginner" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="tensorflow_for_enginner" type="b2602c69:ProjectViewProjectNode" />
+              <item name="tensorflow_for_enginner" type="462c0819:PsiDirectoryNode" />
+              <item name="5_convolutional_neural_network" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -121,12 +117,12 @@
       <workItem from="1554375002151" duration="1313000" />
       <workItem from="1554465479593" duration="2112000" />
       <workItem from="1554558575127" duration="272000" />
-      <workItem from="1554633783304" duration="2784000" />
+      <workItem from="1554633783304" duration="3519000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16351000" />
+    <option name="totallyTimeSpent" value="17086000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -140,7 +136,7 @@
   <component name="ToolWindowManager">
     <frame x="0" y="17" width="1368" height="894" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23373677" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23373677" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -156,7 +152,7 @@
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.32893" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.32893" />
-      <window_info anchor="bottom" id="Jupyter" order="13" visible="true" weight="0.25759578" />
+      <window_info active="true" anchor="bottom" id="Jupyter" order="13" visible="true" weight="0.25759578" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
