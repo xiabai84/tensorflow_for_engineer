@@ -3,9 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="c8fd7b6d-9d78-430a-8f38-9a801ff954ca" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3_neural_network/2_build_nn_layer.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/3_neural_network/2_build_nn_layer.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/4_basic_image_recognition/3_training_script.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/4_basic_image_recognition/3_training_script.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5_convolutional_neural_network/2_cnn_implementation_high_level.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/5_convolutional_neural_network/2_cnn_implementation_high_level.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3_neural_network/3_build_multi_nn_layer.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/3_neural_network/3_build_multi_nn_layer.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_optimization/2_loss_with_mse.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_optimization/3_loss_with_cross_entropy.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_optimization/4_multi_layer_nn.ipynb" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,7 +18,13 @@
     <SUITE FILE_PATH="coverage/tensorflow_for_enginner$jupyter.coverage" NAME="jupyter Coverage Results" MODIFIED="1553010150090" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/6_optimazation/4_multi_layer_nn.ipynb">
+          <provider selected="true" editor-type-id="jupyter-editor" />
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -50,7 +57,7 @@
             <path>
               <item name="tensorflow_for_enginner" type="b2602c69:ProjectViewProjectNode" />
               <item name="tensorflow_for_enginner" type="462c0819:PsiDirectoryNode" />
-              <item name="4_basic_image_recognition" type="462c0819:PsiDirectoryNode" />
+              <item name="6_optimazation" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -126,11 +133,14 @@
       <workItem from="1554792946803" duration="639000" />
       <workItem from="1554804715024" duration="1828000" />
       <workItem from="1554881184458" duration="872000" />
+      <workItem from="1554911266561" duration="673000" />
+      <workItem from="1554967529852" duration="758000" />
+      <workItem from="1555054449718" duration="618000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24322000" />
+    <option name="totallyTimeSpent" value="26371000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -143,8 +153,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="17" width="1368" height="894" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25189108" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2632375" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -160,7 +171,7 @@
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.32893" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.32893" />
-      <window_info anchor="bottom" id="Jupyter" order="13" visible="true" weight="0.25759578" />
+      <window_info active="true" anchor="bottom" id="Jupyter" order="13" visible="true" weight="0.32760897" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -212,6 +223,10 @@
       <provider selected="true" editor-type-id="jupyter-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/4_basic_image_recognition/5_Training_DIY.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/6_optimization/4_multi_layer_nn.ipynb" />
+    <entry file="file://$PROJECT_DIR$/6_optimazation/4_multi_layer_nn.ipynb">
       <provider selected="true" editor-type-id="jupyter-editor" />
     </entry>
   </component>
