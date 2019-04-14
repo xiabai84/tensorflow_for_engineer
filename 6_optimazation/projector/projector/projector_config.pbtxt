@@ -1,0 +1,9 @@
+embeddings {
+  tensor_name: "embedding:0"
+  metadata_path: "/home/bai/PycharmProjects/tensorflow_for_enginner/6_optimazation/projector/projector/metadata.tsv"
+  sprite {
+    image_path: "/home/bai/PycharmProjects/tensorflow_for_enginner/6_optimazation/projector/data/mnist_10k_sprite.png"
+    single_image_dim: 28
+    single_image_dim: 28
+  }
+}

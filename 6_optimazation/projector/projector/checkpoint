@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/bai/PycharmProjects/tensorflow_for_enginner/6_optimazation/projector/projector/model.ckpt-1000"
+all_model_checkpoint_paths: "/home/bai/PycharmProjects/tensorflow_for_enginner/6_optimazation/projector/projector/model.ckpt-1000"
