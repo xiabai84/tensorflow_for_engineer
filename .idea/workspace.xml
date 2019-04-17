@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c8fd7b6d-9d78-430a-8f38-9a801ff954ca" name="Default Changelist" comment="" />
+    <list default="true" id="c8fd7b6d-9d78-430a-8f38-9a801ff954ca" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_optimazation/4_multi_layer_nn.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/6_optimazation/4_multi_layer_nn.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_optimazation/7_batch_normalization.ipynb" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,7 +16,13 @@
     <SUITE FILE_PATH="coverage/tensorflow_for_enginner$jupyter.coverage" NAME="jupyter Coverage Results" MODIFIED="1553010150090" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/6_optimazation/7_with_dropout.ipynb">
+          <provider selected="true" editor-type-id="jupyter-editor" />
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -41,11 +51,6 @@
             <path>
               <item name="tensorflow_for_enginner" type="b2602c69:ProjectViewProjectNode" />
               <item name="tensorflow_for_enginner" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tensorflow_for_enginner" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tensorflow_for_enginner" type="462c0819:PsiDirectoryNode" />
-              <item name="6_optimazation" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -127,12 +132,18 @@
       <workItem from="1555067533713" duration="982000" />
       <workItem from="1555071071503" duration="655000" />
       <workItem from="1555172180217" duration="652000" />
-      <workItem from="1555255220538" duration="1162000" />
+      <workItem from="1555255220538" duration="1636000" />
+      <workItem from="1555325096895" duration="1085000" />
+      <workItem from="1555328013518" duration="109000" />
+      <workItem from="1555423780400" duration="41000" />
+      <workItem from="1555508080171" duration="1234000" />
+      <workItem from="1555512704420" duration="412000" />
+      <workItem from="1555513711281" duration="623000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30627000" />
+    <option name="totallyTimeSpent" value="34605000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -146,7 +157,7 @@
   <component name="ToolWindowManager">
     <frame x="0" y="17" width="1368" height="894" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23903178" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26172465" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -162,7 +173,7 @@
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.32893" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.32893" />
-      <window_info active="true" anchor="bottom" id="Jupyter" order="13" visible="true" weight="0.32760897" />
+      <window_info anchor="bottom" id="Jupyter" order="13" visible="true" weight="0.32760897" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -224,7 +235,9 @@
     <entry file="file://$PROJECT_DIR$/4_basic_image_recognition/1_download_testdata.ipynb">
       <provider selected="true" editor-type-id="jupyter-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/6_optimazation/7_tensorboard_part3_fancy_3D.ipynb">
+    <entry file="file://$PROJECT_DIR$/6_optimazation/7_tensorboard_part3_fancy_3D.ipynb" />
+    <entry file="file://$PROJECT_DIR$/6_optimazation/7_batch_normalization.ipynb" />
+    <entry file="file://$PROJECT_DIR$/6_optimazation/7_with_dropout.ipynb">
       <provider selected="true" editor-type-id="jupyter-editor" />
     </entry>
   </component>
