@@ -1,4 +1,4 @@
-# tensorflow_for_enginner
+# tensorflow_for_engineer
 VKB Gaudi
 
 # Planung
