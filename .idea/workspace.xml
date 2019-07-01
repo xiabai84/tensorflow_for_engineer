@@ -2,18 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c8fd7b6d-9d78-430a-8f38-9a801ff954ca" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/7_tensorflow2_keras/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/tensorflow_for_enginner.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/tensorflow_for_enginner.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1_introduction_tensorflow/0_introduction.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/1_introduction_tensorflow/0_introduction.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1_introduction_tensorflow/model_folder/model.ckpt.data-00000-of-00001" beforeDir="false" afterPath="$PROJECT_DIR$/1_introduction_tensorflow/model_folder/model.ckpt.data-00000-of-00001" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1_introduction_tensorflow/model_folder/model.ckpt.index" beforeDir="false" afterPath="$PROJECT_DIR$/1_introduction_tensorflow/model_folder/model.ckpt.index" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1_introduction_tensorflow/model_folder/model.ckpt.meta" beforeDir="false" afterPath="$PROJECT_DIR$/1_introduction_tensorflow/model_folder/model.ckpt.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5_convolutional_neural_network/1_cnn_theory.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/5_convolutional_neural_network/1_cnn_theory.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/5_convolutional_neural_network/2_cnn_implementation_high_level.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/5_convolutional_neural_network/2_cnn_implementation_high_level.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6_optimazation/6_tensorboard_part3_fancy_3D.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/6_optimazation/6_tensorboard_part3_fancy_3D.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7_tensorflow2_keras/2_classification_with_normalization_callback.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/7_tensorflow2_keras/2_classification_with_normalization_callback.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7_tensorflow2_keras/3_regression_california_housing.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/7_tensorflow2_keras/3_regression_california_housing.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -58,6 +51,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -74,7 +68,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -168,11 +161,13 @@
       <workItem from="1561115423182" duration="546000" />
       <workItem from="1561633644053" duration="1554000" />
       <workItem from="1561643298902" duration="3079000" />
+      <workItem from="1561705957648" duration="578000" />
+      <workItem from="1561981610623" duration="1353000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45288000" />
+    <option name="totallyTimeSpent" value="47219000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -186,7 +181,7 @@
   <component name="ToolWindowManager">
     <frame x="0" y="17" width="1368" height="894" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26399395" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25340393" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -202,7 +197,7 @@
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.32893" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.32893" />
-      <window_info active="true" anchor="bottom" id="Jupyter" order="13" visible="true" weight="0.48745045" />
+      <window_info anchor="bottom" id="Jupyter" order="13" visible="true" weight="0.48745045" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -288,13 +283,13 @@
     <entry file="file://$PROJECT_DIR$/1_introduction_tensorflow/0_introduction.ipynb">
       <provider selected="true" editor-type-id="jupyter-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/7_tensorflow2_keras/.ipynb_checkpoints/1_keras_example-checkpoint.ipynb">
+    <entry file="file://$PROJECT_DIR$/7_tensorflow2_keras/.ipynb_checkpoints/1_keras_example-checkpoint.ipynb" />
+    <entry file="file://$PROJECT_DIR$/7_tensorflow2_keras/1_keras_example.ipynb" />
+    <entry file="file://$PROJECT_DIR$/7_tensorflow2_keras/1_tf2_keras_example.ipynb" />
+    <entry file="file://$PROJECT_DIR$/7_tensorflow2_keras/3_regression_california_housing.ipynb">
       <provider selected="true" editor-type-id="jupyter-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/7_tensorflow2_keras/1_keras_example.ipynb">
-      <provider selected="true" editor-type-id="jupyter-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/7_tensorflow2_keras/1_tf2_keras_example.ipynb">
+    <entry file="file://$PROJECT_DIR$/7_tensorflow2_keras/4_classification_batch_norm_dropout.ipynb">
       <provider selected="true" editor-type-id="jupyter-editor" />
     </entry>
   </component>
