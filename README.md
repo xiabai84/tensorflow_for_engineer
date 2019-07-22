@@ -1,14 +1,17 @@
 # tensorflow_for_engineer
 VKB Gaudi
 
-# Planung
+# Übersicht
 1. Tensorflow Grundlage
 2. Model Speichern, weiderverwenden
 3. Neural Network, Regression, Softmax
 4. Image Classification (mnist handwriting)
 5. CNN
 6. Optimizer & Tensorboard
-7. Mini-Projekt -> Hacken Image Captcha
+7. Tensorflow2 / Keras
+8. Spyder IDE
+9. Tensorflow2 Lowlevel API
+10.Tensorflow2 Dataset
 
 # Themen, die interessant sein könnten:
 * RNN
