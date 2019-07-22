@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c8fd7b6d-9d78-430a-8f38-9a801ff954ca" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/tensorflow_for_enginner.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/tensorflow_for_enginner.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7_tensorflow2_keras/2_classification_with_normalization_callback.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/7_tensorflow2_keras/2_classification_with_normalization_callback.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7_tensorflow2_keras/3_regression_california_housing.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/7_tensorflow2_keras/3_regression_california_housing.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7_tensorflow2_keras/4_classification_batch_norm_dropout.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/7_tensorflow2_keras/4_classification_batch_norm_dropout.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7_tensorflow2_keras/dnn_batch_norm_dropout/fashion_mnist_model.h5" beforeDir="false" afterPath="$PROJECT_DIR$/7_tensorflow2_keras/dnn_batch_norm_dropout/fashion_mnist_model.h5" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,7 +16,13 @@
     <SUITE FILE_PATH="coverage/tensorflow_for_enginner$jupyter.coverage" NAME="jupyter Coverage Results" MODIFIED="1553010150090" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/7_tensorflow2_keras/4_classification_batch_norm_dropout.ipynb">
+          <provider selected="true" editor-type-id="jupyter-editor" />
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -163,11 +167,15 @@
       <workItem from="1561643298902" duration="3079000" />
       <workItem from="1561705957648" duration="578000" />
       <workItem from="1561981610623" duration="1353000" />
+      <workItem from="1562051871962" duration="970000" />
+      <workItem from="1562070361531" duration="889000" />
+      <workItem from="1562139776283" duration="535000" />
+      <workItem from="1562154050514" duration="627000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="47219000" />
+    <option name="totallyTimeSpent" value="50240000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -181,7 +189,7 @@
   <component name="ToolWindowManager">
     <frame x="0" y="17" width="1368" height="894" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25340393" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2700454" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -197,7 +205,7 @@
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.32893" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.32893" />
-      <window_info anchor="bottom" id="Jupyter" order="13" visible="true" weight="0.48745045" />
+      <window_info active="true" anchor="bottom" id="Jupyter" order="13" visible="true" weight="0.48745045" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
