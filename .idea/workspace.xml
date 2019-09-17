@@ -3,13 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="c8fd7b6d-9d78-430a-8f38-9a801ff954ca" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/11_tf_serving/0_tensorflow1_13_serving_simple_regression.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/11_tf_serving/0_tensorflow1_13_serving_simple_regression.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/11_tf_serving/1_tensorflow1_13_serving_simple.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/11_tf_serving/2_tensorflow1_13_serving_image.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/11_tf_serving/2_tensorflow1_13_serving_image.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/11_tf_serving/client_tf_request.py" beforeDir="false" afterPath="$PROJECT_DIR$/11_tf_serving/client_tf_request.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/11_tf_serving/model/1/saved_model.pb" beforeDir="false" afterPath="$PROJECT_DIR$/11_tf_serving/model/1/saved_model.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/11_tf_serving/model/1/variables/variables.data-00000-of-00001" beforeDir="false" afterPath="$PROJECT_DIR$/11_tf_serving/model/1/variables/variables.data-00000-of-00001" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/11_tf_serving/model/1/variables/variables.index" beforeDir="false" afterPath="$PROJECT_DIR$/11_tf_serving/model/1/variables/variables.index" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -35,7 +28,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../nlp_bootcamp" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
@@ -160,7 +153,8 @@
       <workItem from="1564651062476" duration="1808000" />
       <workItem from="1564653164534" duration="4234000" />
       <workItem from="1564732748197" duration="28000" />
-      <workItem from="1564745980338" duration="4249000" />
+      <workItem from="1564745980338" duration="4339000" />
+      <workItem from="1564991941145" duration="80000" />
     </task>
     <servers />
   </component>
