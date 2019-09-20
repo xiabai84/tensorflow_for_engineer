@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c8fd7b6d-9d78-430a-8f38-9a801ff954ca" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/tensorflow_for_enginner.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/tensorflow_for_enginner.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/11_tf_serving/3_tensorflow2.0_rc_serving.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/11_tf_serving/3_tensorflow2.0_rc_serving.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -155,6 +158,7 @@
       <workItem from="1564732748197" duration="28000" />
       <workItem from="1564745980338" duration="4339000" />
       <workItem from="1564991941145" duration="80000" />
+      <workItem from="1568883079089" duration="1947000" />
     </task>
     <servers />
   </component>
